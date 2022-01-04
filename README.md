@@ -7,7 +7,8 @@ Contents:
 - Data Loading
 - Handling missing data
 - Encoding Categorical data
-- Regression Using Machine Learning
+- Regression Using Machine Learning 
+- K-fold Cross Validation
 - Testing
 
 
